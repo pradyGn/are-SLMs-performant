@@ -1,0 +1,8 @@
+datasets==3.4.1
+pandas==2.2.3
+peft==0.15.0
+pyarrow==19.0.1
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.50.1
+trl==0.16.0
