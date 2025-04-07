@@ -1,3 +1,13 @@
+# directories
+data/
+models/
+output/
+images/
+scratch/
+
+# files
+notebooks/2025-05-26_build-train-test-dataset.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
