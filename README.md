@@ -11,7 +11,7 @@ Also, I have published a Substack article discussing the approach I take to tack
 ```
 git clone https://github.com/pradyGn/are-SLMs-performant.git
 cd are-SLMs-performant
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 🧪 Notebooks
