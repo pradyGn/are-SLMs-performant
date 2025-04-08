@@ -4,7 +4,7 @@ This repository houses python notebooks used to fine tune, evaluate and compare 
 
 <p align="center">Can Small Language Models (SMLs) display a comparable performance to LLMs in extracting information from HTML?</p>
 
-Also, I have published a Substack article discussing the approach I take to tackle this question, my finding, thoughts and more!
+Also, I have published a [Substack article](https://gprady.substack.com/p/fine-tuning-small-language-models) discussing the approach I take to tackle this question, my finding, thoughts and more!
 
 ### 📦 Installation
 
