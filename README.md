@@ -1,4 +1,4 @@
-# are-SLMs-performant?
+# Are-SLMs-Performant?
 
 This repository houses python notebooks used to fine tune, evaluate and compare performance of Small Language Models (SLMs) used to answer the following question -
 
