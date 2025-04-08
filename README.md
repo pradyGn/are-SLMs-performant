@@ -41,7 +41,7 @@ are-SLMs-performant/
 
 ### 🔗 References
 
-- Substack Article
+- [Substack Article](https://gprady.substack.com/p/fine-tuning-small-language-models)
 - [Huggingface Dataset Repository](https://huggingface.co/datasets/Jiraya/html_to_json_information_extraction_dataset)
 
 ### 🙋‍♂️ Contact
