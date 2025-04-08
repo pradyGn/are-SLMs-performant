@@ -41,5 +41,10 @@ are-SLMs-performant/
 
 ### 🔗 References
 
-- Substack Artile
+- Substack Article
 - [Huggingface Dataset Repository](https://huggingface.co/datasets/Jiraya/html_to_json_information_extraction_dataset)
+
+### 🙋‍♂️ Contact
+
+- [LinkedIn](https://www.linkedin.com/in/pradyumangangan/)
+- pradyuman.gangan02@gmail.com
